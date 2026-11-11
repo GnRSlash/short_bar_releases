@@ -4,10 +4,6 @@
 
   **The ultimate desktop organizer. Elevate your workspace with beautifully animated, custom-styled floating bars.**
 
-  [![Get it on Gumroad](https://shields.io)](https://gumroad.com)
-  [![Platform](https://shields.io)](#)
-  [![Portable](https://shields.io)](#)
-
   <br />
 
   <!-- Replace the link below with a screenshot or GIF showing your floating bars, animations, and system monitors -->
