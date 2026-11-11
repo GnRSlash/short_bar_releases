@@ -11,7 +11,7 @@
   <br />
 
   <!-- Replace the link below with a screenshot or GIF showing your floating bars, animations, and system monitors -->
-  <img src="https://placeholder.com" alt="Shorts Bar Preview" width="850" />
+  <img src="https://public-files.gumroad.com/jk33ulkrg3umeynq2xliehcm7kk8" alt="Shorts Bar Preview" width="850" />
 
 </div>
 
