@@ -38,7 +38,7 @@ Designed to be **fast, seamless, and genuinely satisfying**, Shorts Bar blends s
 
 ## 📥 Download & Installation
 
-1. Visit the official product page on **[Gumroad — Shorts Bar](https://gumroad.com)**.
+1. Visit the official product page on **[Gumroad — Shorts Bar](https://gnrteam.gumroad.com/l/shortsbar)**.
 2. After completing your purchase, download the `.zip` package from the content page (or click the **View Content** button in your confirmation email).
 3. Extract the entire `.zip` archive to a permanent folder on your computer *(make sure to keep the executable and the `lang` folder together)*.
 4. Launch the executable and enter your **License Key** to activate.
